@@ -8,7 +8,7 @@
   
 ##
 
-### Projeto de finalização de Conteúdo com enfâse na linguagem Kotlin (Programação Orientada á Objetos)
+### Projeto de finalização de Conteúdo com enfâse na linguagem Kotlin (Programação Orientada a Objetos)
 
 Participantes: 
 Bianca Oliveira,
